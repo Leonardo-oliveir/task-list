@@ -1,0 +1,24 @@
+.section-listing-taks {
+    margin-top: 100px;
+}
+
+.baixa{
+    background-color: blue;
+
+}
+.media{
+    background-color: yellow;
+
+}
+.media td{
+    color:black
+    
+}
+.alta{
+    background-color: red;
+
+}
+
+td{
+    color:white
+}
